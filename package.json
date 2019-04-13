@@ -15,6 +15,8 @@
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
+    "cli": "^1.0.1",
+    "heroku": "^7.22.9",
     "nodemon": "^1.18.11"
   }
 }
